@@ -1,0 +1,4 @@
+repository "jogo mobile 2/jogo mobile 2@4673917932764@cloud"
+  path "/"
+    br "/main"
+    co "/main"
